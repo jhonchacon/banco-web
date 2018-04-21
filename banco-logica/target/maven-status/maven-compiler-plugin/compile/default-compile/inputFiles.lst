@@ -1,0 +1,16 @@
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/Usuario.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/logica/ClienteLogicaImpl.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/Cliente.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/dao/ClienteDAOImpl.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/dao/TipoDocumentoDAOImpl.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/CuentaRegistrada.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/dao/IClienteDAO.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/dao/ITipoDocumentoDAO.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/Transaccion.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/logica/IClienteLogica.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/logica/TipoDocumentoLogicaImpl.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/TipoDocumento.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/Cuenta.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/TipoTransaccion.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/logica/ITipoDocumentoLogica.java
+/Users/macbook/Desktop/gc/workspace/banco-logica/src/main/java/co/edu/usbcali/banco/modelo/TipoUsuario.java
